@@ -49,11 +49,6 @@ Users can **search** by name or email, and **reload** the data anytime with a cl
 
 ---
 
-## 📸 Screenshot
-![User Directory Screenshot](https://dhanush1348.github.io/Internship_by_Elevate_Labs_Task7-fetch-users-project-/screenshot.png)
-
----
-
 ## 📥 Installation & Usage
 1. **Clone the repository**  
     ```bash
